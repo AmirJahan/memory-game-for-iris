@@ -12,6 +12,16 @@
 		29BECE971F6108E5001D6AFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29BECE951F6108E5001D6AFD /* Main.storyboard */; };
 		29BECE991F6108E5001D6AFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29BECE981F6108E5001D6AFD /* Assets.xcassets */; };
 		29BECE9C1F6108E5001D6AFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29BECE9A1F6108E5001D6AFD /* LaunchScreen.storyboard */; };
+		29C7E3C920EF87D800CD8F2B /* pixabay-3460133.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C120EF87D800CD8F2B /* pixabay-3460133.png */; };
+		29C7E3CA20EF87D800CD8F2B /* flickr-9380453461.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C220EF87D800CD8F2B /* flickr-9380453461.png */; };
+		29C7E3CB20EF87D800CD8F2B /* pixabay-1692849.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C320EF87D800CD8F2B /* pixabay-1692849.png */; };
+		29C7E3CC20EF87D800CD8F2B /* pixabay-2119595.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C420EF87D800CD8F2B /* pixabay-2119595.png */; };
+		29C7E3CD20EF87D800CD8F2B /* flickr-5636162627.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C520EF87D800CD8F2B /* flickr-5636162627.png */; };
+		29C7E3CE20EF87D800CD8F2B /* pixabay-3046269.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C620EF87D800CD8F2B /* pixabay-3046269.png */; };
+		29C7E3CF20EF87D800CD8F2B /* flickr-7461407466.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C720EF87D800CD8F2B /* flickr-7461407466.png */; };
+		29C7E3D020EF87D800CD8F2B /* pixabay-3221498.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3C820EF87D800CD8F2B /* pixabay-3221498.png */; };
+		29C7E3D220EF8A6E00CD8F2B /* empty.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3D120EF8A6E00CD8F2B /* empty.jpg */; };
+		29C7E3D420EF8B7C00CD8F2B /* success.png in Resources */ = {isa = PBXBuildFile; fileRef = 29C7E3D320EF8B7C00CD8F2B /* success.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		29BECE981F6108E5001D6AFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29BECE9B1F6108E5001D6AFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29BECE9D1F6108E5001D6AFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29C7E3C120EF87D800CD8F2B /* pixabay-3460133.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pixabay-3460133.png"; sourceTree = "<group>"; };
+		29C7E3C220EF87D800CD8F2B /* flickr-9380453461.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flickr-9380453461.png"; sourceTree = "<group>"; };
+		29C7E3C320EF87D800CD8F2B /* pixabay-1692849.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pixabay-1692849.png"; sourceTree = "<group>"; };
+		29C7E3C420EF87D800CD8F2B /* pixabay-2119595.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pixabay-2119595.png"; sourceTree = "<group>"; };
+		29C7E3C520EF87D800CD8F2B /* flickr-5636162627.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flickr-5636162627.png"; sourceTree = "<group>"; };
+		29C7E3C620EF87D800CD8F2B /* pixabay-3046269.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pixabay-3046269.png"; sourceTree = "<group>"; };
+		29C7E3C720EF87D800CD8F2B /* flickr-7461407466.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flickr-7461407466.png"; sourceTree = "<group>"; };
+		29C7E3C820EF87D800CD8F2B /* pixabay-3221498.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pixabay-3221498.png"; sourceTree = "<group>"; };
+		29C7E3D120EF8A6E00CD8F2B /* empty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = empty.jpg; sourceTree = "<group>"; };
+		29C7E3D320EF8B7C00CD8F2B /* success.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = success.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				29BECE911F6108E5001D6AFD /* AppDelegate.swift */,
+				29C7E3C020EF87D800CD8F2B /* images */,
 				29BECE931F6108E5001D6AFD /* ViewController.swift */,
 				29BECE951F6108E5001D6AFD /* Main.storyboard */,
 				29BECE981F6108E5001D6AFD /* Assets.xcassets */,
@@ -62,6 +83,23 @@
 				29BECE9D1F6108E5001D6AFD /* Info.plist */,
 			);
 			path = "Memory Game";
+			sourceTree = "<group>";
+		};
+		29C7E3C020EF87D800CD8F2B /* images */ = {
+			isa = PBXGroup;
+			children = (
+				29C7E3D120EF8A6E00CD8F2B /* empty.jpg */,
+				29C7E3C120EF87D800CD8F2B /* pixabay-3460133.png */,
+				29C7E3C220EF87D800CD8F2B /* flickr-9380453461.png */,
+				29C7E3D320EF8B7C00CD8F2B /* success.png */,
+				29C7E3C320EF87D800CD8F2B /* pixabay-1692849.png */,
+				29C7E3C420EF87D800CD8F2B /* pixabay-2119595.png */,
+				29C7E3C520EF87D800CD8F2B /* flickr-5636162627.png */,
+				29C7E3C620EF87D800CD8F2B /* pixabay-3046269.png */,
+				29C7E3C720EF87D800CD8F2B /* flickr-7461407466.png */,
+				29C7E3C820EF87D800CD8F2B /* pixabay-3221498.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +161,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29C7E3D420EF8B7C00CD8F2B /* success.png in Resources */,
+				29C7E3CB20EF87D800CD8F2B /* pixabay-1692849.png in Resources */,
 				29BECE9C1F6108E5001D6AFD /* LaunchScreen.storyboard in Resources */,
+				29C7E3C920EF87D800CD8F2B /* pixabay-3460133.png in Resources */,
+				29C7E3CF20EF87D800CD8F2B /* flickr-7461407466.png in Resources */,
+				29C7E3D020EF87D800CD8F2B /* pixabay-3221498.png in Resources */,
+				29C7E3CC20EF87D800CD8F2B /* pixabay-2119595.png in Resources */,
+				29C7E3CD20EF87D800CD8F2B /* flickr-5636162627.png in Resources */,
 				29BECE991F6108E5001D6AFD /* Assets.xcassets in Resources */,
+				29C7E3CA20EF87D800CD8F2B /* flickr-9380453461.png in Resources */,
+				29C7E3CE20EF87D800CD8F2B /* pixabay-3046269.png in Resources */,
 				29BECE971F6108E5001D6AFD /* Main.storyboard in Resources */,
+				29C7E3D220EF8A6E00CD8F2B /* empty.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
